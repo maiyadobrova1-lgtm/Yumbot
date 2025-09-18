@@ -1,6 +1,5 @@
 import os
 import json
-from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # 👉 Вставь сюда свой токен от BotFather
